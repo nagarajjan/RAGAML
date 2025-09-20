@@ -1,0 +1,4 @@
+customer_id,name,date_of_birth,address,country,occupation,source_of_wealth,business_type
+CUST101,Jane Doe,1985-05-20,"123 Example Street, Anytown",Country A,Consultant,Savings and investments,Offshore Consulting
+CUST102,John Smith,1990-01-15,"456 Another Avenue, Metropolis",Country B,Business Owner,Inheritance and business profits,Local Retail
+CUST103,Alice Johnson,1978-11-30,"789 Main Boulevard, Smallville",Country B,Dentist,Business earnings,Dental Clinic

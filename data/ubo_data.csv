@@ -1,0 +1,5 @@
+customer_id,name,ownership_percentage
+CUST101,Jane Doe,50.0
+CUST101,Prominent Official,50.0
+CUST102,John Smith,100.0
+CUST103,Alice Johnson,100.0
